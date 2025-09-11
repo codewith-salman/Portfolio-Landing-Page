@@ -27,7 +27,6 @@ With a minimalistic design, smooth layout, and mobile-friendly interface, it’s
 
 - HTML5  
 - CSS3  
-- JavaScript  
 
 ---
 

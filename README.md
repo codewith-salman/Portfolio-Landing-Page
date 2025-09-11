@@ -5,7 +5,7 @@
   <h1>🌐 Portfolio Landing Page</h1>
   <p>A sleek, modern, and fully responsive landing page to showcase a personal portfolio, skills, and projects with a visually appealing design.</p>
   
-  <img src="Portfolio%20Hero%20Page/image/screenshot.PNG" alt="Portfolio Landing Page Screenshot" width="100%"/>
+  <img src="Portfolio%20Hero%20Page/ss.png" alt="Portfolio Landing Page Screenshot" width="100%"/>
 </div>
 
 ---
